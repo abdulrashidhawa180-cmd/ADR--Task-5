@@ -11,6 +11,7 @@ A 62-year-old woman (68 kg) with a history of chronic kidney disease (Stage 3a) 
 | Action taken | Drug withdrawn |
 | Outcome | Recovering, not yet recovered (hospitalized) |
 | Report type | Spontaneous, initial |
+
 The four minimum criteria are met: an identifiable patient, an identifiable reporter, a suspected drug, and an adverse event. Because the case is serious (requires inpatient hospitalization and carries life-threatening potential), it should be reported to the national pharmacovigilance centre within 15 calendar days.
 3. Causality (WHO-UMC)
 Certain. The temporal relationship aligns precisely with allopurinol-induced DRESS syndrome (typical 2–6 week onset window). The constellation of symptoms—fever, exanthem, eosinophilia, and renal impairment—is a characteristic severe adverse reaction pattern of allopurinol, particularly in patients with baseline renal impairment. Dechallenge was positive, with steady improvement upon drug discontinuation and corticosteroid therapy. Concomitant drugs (lisinopril, atorvastatin) have been taken long-term without issue and do not offer a plausible alternative explanation. Rechallenge was not performed and would be unsafe.
