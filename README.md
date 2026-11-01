@@ -1,7 +1,6 @@
 INDIVIDUAL CASE SAFETY REPORT TASK 5
  ADR identification
 A 62-year-old woman (68 kg) with a history of chronic kidney disease (Stage 3a) and hypertension was started on allopurinol 300 mg once daily for symptomatic gout. She also takes lisinopril 10 mg daily and atorvastatin 20 mg daily. On day 21 of allopurinol therapy, she presented with fever (38.9°C), a widespread morbilliform rash, facial edema, and cervical lymphadenopathy. Laboratory tests showed marked eosinophilia (1.8 × 10⁹/L) and acute kidney injury (creatinine rose to 2.1 mg/dL from a baseline of 1.1 mg/dL). Allopurinol was stopped on day 22. Skin biopsy confirmed Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) syndrome. She was hospitalized and started on IV systemic corticosteroids. Her rash and renal function are slowly improving, but she has not yet fully recovered.
-
 2. Reporting
 | Field | Entry |
 |---|---|
